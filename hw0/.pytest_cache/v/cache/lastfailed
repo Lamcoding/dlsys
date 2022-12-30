@@ -1,0 +1,6 @@
+{
+  "tests/test_simple_ml.py::test_add": true,
+  "tests/test_simple_ml.py::test_nn_epoch": true,
+  "tests/test_simple_ml.py::test_softmax_loss": true,
+  "tests/test_simple_ml.py::test_softmax_regression_epoch": true
+}

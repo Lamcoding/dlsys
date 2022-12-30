@@ -1,0 +1,11 @@
+[
+  "tests/test_ndarray.py::submit_ndarray_python_ops",
+  "tests/test_ndarray.py::submit_ndarray_cpu_compact_setitem",
+  "tests/test_ndarray.py::submit_ndarray_cpu_ops",
+  "tests/test_ndarray.py::submit_ndarray_cpu_reductions",
+  "tests/test_ndarray.py::submit_ndarray_cpu_matmul",
+  "tests/test_ndarray.py::submit_ndarray_cuda_compact_setitem",
+  "tests/test_ndarray.py::submit_ndarray_cuda_ops",
+  "tests/test_ndarray.py::submit_ndarray_cuda_reductions",
+  "tests/test_ndarray.py::submit_ndarray_cuda_matmul"
+]
